@@ -1,3 +1,2 @@
 User-agent: *
 Disallow:
-Sitemap: http://www.theletterpress.co.uk/sitemap.xml
