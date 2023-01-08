@@ -1,2 +1,1 @@
-# bendenning.github.io
-GitHub Pages
+bendenning.github.io
