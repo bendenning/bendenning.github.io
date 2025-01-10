@@ -2,10 +2,10 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "the letterpress",
     "description": "",
-    "home_page_url": "http://www.theletterpress.co.uk",
-    "feed_url": "http://www.theletterpress.co.uk/feed.json",
+    "home_page_url": "https://bendenning.github.io/bendenning",
+    "feed_url": "https://bendenning.github.io/bendenning/feed.json",
     "user_comment": "",
-    "icon": "http://www.theletterpress.co.uk/media/website/the-letterpress-logo-white.png",
+    "icon": "https://bendenning.github.io/bendenning/media/website/the-letterpress-logo-white.png",
     "author": {
         "name": "ben"
     },
